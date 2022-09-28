@@ -1,1 +1,2 @@
-A mock fitness tracking app. C and C++. 
+A mock fitness tracking app. C and C++.  
+
